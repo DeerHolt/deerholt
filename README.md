@@ -1,5 +1,5 @@
-### Hi there 👋
-
+### Welcome q:)
+![](https://komarev.com/ghpvc/?username=deerholt&color=blueviolet)
 <!--
 **DeerHolt/deerholt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
